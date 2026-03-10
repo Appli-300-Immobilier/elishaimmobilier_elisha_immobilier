@@ -6,7 +6,7 @@ elisha immobilier Website
 elisha immobilier
 - **Directory:** elishaimmobilier_elisha_immobilier
 - **Address/Contact:** 
-  - ??Abidjan-C�te d'ivoire
+  - ??Abidjan-Céte d'ivoire
   - ?? Location tout genre
   - ??Gestion de bien immobilier
   - ???? 07.09.72.55.43????
